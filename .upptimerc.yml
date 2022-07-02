@@ -10,7 +10,9 @@ sites:
   - name: ITPROSEC
     url: https://www.itprosec.com
   - name: Sites
-    url: https://www.itprosec.com
+    url: https://sites.51sec.org
+  - name: Navigation
+    url: https://nav.51sec.org
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
     url: 8.8.8.8
