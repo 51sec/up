@@ -5,12 +5,16 @@ repo: up # The name of this repository
 sites:
   - name: Blog
     url: https://blog.51sec.org
+    icon: https://blog.51sec.org/favicon.ico
   - name: WWW
     url: https://www.51sec.org
+    icon: https://www.51sec.org/favicon.ico
   - name: ITPROSEC
     url: https://www.itprosec.com
+    icon: https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg
   - name: Sites
     url: https://sites.51sec.org
+    icon: https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png
   - name: Navigation
     url: https://nav.51sec.org
   - name: Google DNS 8.8.8.8
