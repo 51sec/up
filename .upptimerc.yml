@@ -17,6 +17,8 @@ sites:
     icon: https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png
   - name: Navigation
     url: https://nav.51sec.org
+  - name: OneDrive
+    url: https://od.51sec.org
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
     url: 8.8.8.8
