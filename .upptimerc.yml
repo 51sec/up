@@ -17,8 +17,13 @@ sites:
     icon: https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png
   - name: Navigation
     url: https://nav.51sec.org
+    icon: https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png
   - name: OneDrive
     url: https://od.51sec.org
+    icon: https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png
+  - name: NetSec YouTube Channel
+    url: https://www.youtube.com/c/NetSec
+    icon: https://image.similarpng.com/very-thumbnail/2020/05/Logo-YouTube-realistic-icon-transparent-PNG.png
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
     url: 8.8.8.8
