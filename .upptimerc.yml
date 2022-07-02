@@ -3,11 +3,13 @@ owner: 51sec # Your GitHub organization or username, where this repository lives
 repo: up # The name of this repository
 
 sites:
-  - name: Blog.51Sec.org
+  - name: Blog
     url: https://blog.51sec.org
-  - name: www.51Sec.org
+  - name: WWW
     url: https://www.51sec.org
   - name: ITPROSEC
+    url: https://www.itprosec.com
+  - name: Sites
     url: https://www.itprosec.com
   - name: Google
     url: https://www.google.com
@@ -18,12 +20,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.51sec.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/51sec/up/master/assets/up-icon.png
+  name: UP
+  introTitle: "**UP** monitoring and showing status of 51Sec Websites."
+  introMessage: Monitoring **real-time** data from our [GitHub repository](https://github.com/51sec/up).
   navbar:
-    - title: Status
+    - title: Status for 51Sec Sites and Servers
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
