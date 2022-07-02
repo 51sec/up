@@ -11,8 +11,10 @@ sites:
     url: https://www.itprosec.com
   - name: Sites
     url: https://www.itprosec.com
-  - name: Google
-    url: https://www.google.com
+  - name: Google DNS 8.8.8.8
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 
 status-website:
@@ -22,13 +24,18 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/51sec/up/master/assets/up-icon.png
   name: UP
-  introTitle: "**UP** monitoring and showing status of 51Sec Websites."
-  introMessage: Monitoring **real-time** data from our [GitHub repository](https://github.com/51sec/up).
+  introTitle: "**UP** monitors 51Sec Websites and servers!"
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/51sec/up).
+  favicon: https://raw.githubusercontent.com/51sec/up/master/assets/up-icon.png
+  theme: ocean
+  # Available themes are light, dark, night or ocean.
   navbar:
     - title: Status for 51Sec Sites and Servers
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: 51Sec
+      href: https://blog.51sec.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
