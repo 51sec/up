@@ -28,6 +28,7 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
+    icon: https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png
 
 
 status-website:
@@ -43,7 +44,7 @@ status-website:
   theme: ocean
   # Available themes are light, dark, night or ocean.
   navbar:
-    - title: Status for 51Sec Sites and Servers
+    - title: Status Page
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
