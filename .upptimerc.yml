@@ -67,7 +67,8 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 
-  scripts:
+
+scripts:
     - src: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5660349373091698
     - src: https://www.googletagmanager.com/gtag/js?id=G-3NWLMBWBZS
       async: true
