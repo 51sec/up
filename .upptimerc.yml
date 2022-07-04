@@ -60,11 +60,11 @@ i18n:
   
 workflowSchedule:
   graphs: "0 */6 * * *"
-  responseTime: "0 */6 * * *"
-  staticSite: "0 */6 * * *"
-  summary: "0 */6 * * *"
-  updateTemplate: "0 */6 * * *"
-  updates: "0 */6 * * *"
+  responseTime: "10 */6 * * *"
+  staticSite: "20 */6 * * *"
+  summary: "30 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "40 */6 * * *"
   uptime: "*/5 * * * *"
 
 
