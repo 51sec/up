@@ -58,9 +58,9 @@
     "url": "https://sites.51sec.org",
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png",
     "slug": "sites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-06": 0
+    }
   },
   {
     "name": "Navigation",
