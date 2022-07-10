@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 373,
     "timeDay": 334,
-    "timeWeek": 369,
+    "timeWeek": 365,
     "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://www.51sec.org",
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 359,
-    "timeDay": 407,
-    "timeWeek": 369,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 358,
+    "timeDay": 399,
+    "timeWeek": 362,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-07-10": 83
+      "2022-07-10": 125
     }
   },
   {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 392,
-    "timeWeek": 562,
+    "timeWeek": 563,
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {}
@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 199,
-    "timeWeek": 173,
+    "timeWeek": 174,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 215,
-    "timeWeek": 247,
+    "timeWeek": 244,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 200,
-    "timeWeek": 263,
+    "timeWeek": 260,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {}
