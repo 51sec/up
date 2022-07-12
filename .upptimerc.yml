@@ -21,6 +21,10 @@ sites:
   - name: OneDrive
     url: https://od.51sec.org
     icon: https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png
+  - name: GDDrive
+    url: https://gd.51sec.org
+  - name: ARMWP
+    url: https://armwp.51sec.org
   - name: NetSec YouTube Channel
     url: https://www.youtube.com/c/NetSec
     icon: https://image.similarpng.com/very-thumbnail/2020/05/Logo-YouTube-realistic-icon-transparent-PNG.png
