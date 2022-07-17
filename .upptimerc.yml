@@ -60,7 +60,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is [created]($REPO) @2022-07-01 by [51Sec](www.51sec.org), powered by [Upptime](https://upptime.js.org)
+  footer: This page is hoshted on GitHub [51sec/up]($REPO) project since @2022-07-01, and created by [NetSec](https://www.51sec.org).
   
 workflowSchedule:
   graphs: "0 */6 * * *"
