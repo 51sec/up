@@ -4,18 +4,20 @@
     "url": "https://blog.51sec.org",
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 358,
+    "time": 368,
+    "timeDay": 351,
     "timeWeek": 331,
-    "timeMonth": 369,
-    "timeYear": 369,
-    "dailyMinutesDown": {}
+    "timeMonth": 368,
+    "timeYear": 368,
+    "dailyMinutesDown": {
+      "2022-07-28": 2
+    }
   },
   {
     "name": "WWW",
@@ -23,18 +25,17 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 343,
     "timeDay": 308,
     "timeWeek": 303,
     "timeMonth": 343,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-07-28": 13,
       "2022-07-10": 125
     }
   },
@@ -43,9 +44,9 @@
     "url": "https://www.itprosec.com",
     "icon": "https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg",
     "slug": "itprosec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +55,9 @@
     "timeWeek": 427,
     "timeMonth": 507,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   },
   {
     "name": "Sites",
