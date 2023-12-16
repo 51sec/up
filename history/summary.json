@@ -5,14 +5,14 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "79.57%",
+    "uptime": "79.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.44%",
+    "uptimeYear": "94.52%",
     "time": 152,
-    "timeDay": 151,
-    "timeWeek": 150,
+    "timeDay": 154,
+    "timeWeek": 155,
     "timeMonth": 157,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -36,8 +36,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 608,
-      "2022-12-16": 79
+      "2023-05-24": 608
     }
   },
   {
@@ -46,15 +45,15 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "88.30%",
+    "uptime": "88.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.42%",
+    "uptimeYear": "94.49%",
     "time": 142,
-    "timeDay": 130,
-    "timeWeek": 160,
-    "timeMonth": 147,
+    "timeDay": 114,
+    "timeWeek": 155,
+    "timeMonth": 146,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2023-06-13": 861,
@@ -77,8 +76,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 726,
-      "2022-12-16": 79
+      "2023-05-24": 726
     }
   },
   {
@@ -91,15 +89,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 72,
-    "timeWeek": 74,
-    "timeMonth": 86,
+    "timeDay": 82,
+    "timeWeek": 77,
+    "timeMonth": 87,
     "timeYear": 90,
-    "dailyMinutesDown": {
-      "2022-12-16": 79
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sites",
@@ -107,14 +103,14 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png",
     "slug": "sites",
     "status": "down",
-    "uptime": "88.34%",
+    "uptime": "88.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.45%",
+    "uptimeYear": "94.53%",
     "time": 133,
-    "timeDay": 73,
-    "timeWeek": 124,
+    "timeDay": 101,
+    "timeWeek": 126,
     "timeMonth": 132,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -138,8 +134,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 525,
-      "2022-12-16": 79
+      "2023-05-24": 525
     }
   },
   {
@@ -152,10 +147,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.45%",
+    "uptimeYear": "94.52%",
     "time": 122,
-    "timeDay": 46,
-    "timeWeek": 105,
+    "timeDay": 47,
+    "timeWeek": 100,
     "timeMonth": 115,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -179,8 +174,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 576,
-      "2022-12-16": 79
+      "2023-05-24": 576
     }
   },
   {
@@ -189,15 +183,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "down",
-    "uptime": "88.34%",
+    "uptime": "88.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.45%",
+    "uptimeYear": "94.53%",
     "time": 117,
-    "timeDay": 79,
+    "timeDay": 73,
     "timeWeek": 110,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2023-06-13": 861,
@@ -220,8 +214,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 537,
-      "2022-12-16": 79
+      "2023-05-24": 537
     }
   },
   {
@@ -234,15 +227,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 100,
-    "timeWeek": 93,
+    "timeDay": 90,
+    "timeWeek": 92,
     "timeMonth": 94,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2022-12-16": 79
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ARMWP",
@@ -250,15 +241,15 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "88.09%",
+    "uptime": "88.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.42%",
+    "uptimeYear": "94.49%",
     "time": 104,
-    "timeDay": 75,
-    "timeWeek": 101,
-    "timeMonth": 94,
+    "timeDay": 92,
+    "timeWeek": 100,
+    "timeMonth": 95,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2023-06-13": 860,
@@ -281,8 +272,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 726,
-      "2022-12-16": 79
+      "2023-05-24": 726
     }
   },
   {
@@ -296,9 +286,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 266,
-    "timeWeek": 268,
+    "time": 293,
+    "timeDay": 272,
+    "timeWeek": 270,
     "timeMonth": 280,
     "timeYear": 292,
     "dailyMinutesDown": {}
@@ -308,19 +298,20 @@
     "url": "8.8.8.8",
     "icon": "https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png",
     "slug": "google-dns-8-8-8-8",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "75.42%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.53%",
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "99.45%",
     "time": 7,
-    "timeDay": 0,
+    "timeDay": 6,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 7,
     "dailyMinutesDown": {
-      "2023-12-15": 1120,
+      "2023-12-16": 90,
+      "2023-12-15": 1440,
       "2023-12-14": 1357
     }
   }
