@@ -5,15 +5,15 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "84.30%",
+    "uptime": "84.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.52%",
     "time": 163,
-    "timeDay": 196,
-    "timeWeek": 180,
-    "timeMonth": 171,
+    "timeDay": 153,
+    "timeWeek": 176,
+    "timeMonth": 170,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2023-06-13": 860,
@@ -34,8 +34,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -50,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.49%",
     "time": 149,
-    "timeDay": 146,
-    "timeWeek": 165,
-    "timeMonth": 167,
+    "timeDay": 123,
+    "timeWeek": 160,
+    "timeMonth": 168,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-06-13": 861,
@@ -73,8 +72,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -89,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 81,
-    "timeWeek": 93,
+    "timeDay": 89,
+    "timeWeek": 94,
     "timeMonth": 92,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -107,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.53%",
     "time": 137,
-    "timeDay": 128,
-    "timeWeek": 164,
+    "timeDay": 95,
+    "timeWeek": 159,
     "timeMonth": 152,
     "timeYear": 138,
     "dailyMinutesDown": {
@@ -130,8 +128,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -140,15 +137,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "down",
-    "uptime": "91.03%",
+    "uptime": "91.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.52%",
     "time": 125,
-    "timeDay": 121,
-    "timeWeek": 117,
-    "timeMonth": 139,
+    "timeDay": 86,
+    "timeWeek": 116,
+    "timeMonth": 140,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2023-06-13": 860,
@@ -169,8 +166,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -185,8 +181,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.53%",
     "time": 121,
-    "timeDay": 1160,
-    "timeWeek": 282,
+    "timeDay": 1122,
+    "timeWeek": 276,
     "timeMonth": 163,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -208,8 +204,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -224,8 +219,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 89,
-    "timeWeek": 96,
+    "timeDay": 52,
+    "timeWeek": 97,
     "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -242,9 +237,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.49%",
     "time": 105,
-    "timeDay": 80,
-    "timeWeek": 89,
-    "timeMonth": 104,
+    "timeDay": 82,
+    "timeWeek": 84,
+    "timeMonth": 103,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-06-13": 860,
@@ -265,8 +260,7 @@
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
-      "2023-05-26": 1440,
-      "2023-05-25": 1440
+      "2023-05-26": 1440
     }
   },
   {
@@ -281,7 +275,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 250,
+    "timeDay": 263,
     "timeWeek": 273,
     "timeMonth": 265,
     "timeYear": 275,
