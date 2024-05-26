@@ -5,14 +5,14 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "84.34%",
+    "uptime": "84.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.92%",
     "time": 163,
-    "timeDay": 108,
-    "timeWeek": 176,
+    "timeDay": 158,
+    "timeWeek": 181,
     "timeMonth": 170,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -32,8 +32,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -42,15 +41,15 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "91.03%",
+    "uptime": "91.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.92%",
     "time": 149,
-    "timeDay": 116,
-    "timeWeek": 149,
-    "timeMonth": 166,
+    "timeDay": 162,
+    "timeWeek": 155,
+    "timeMonth": 165,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2023-06-13": 861,
@@ -69,8 +68,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -85,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 71,
-    "timeWeek": 89,
+    "timeDay": 70,
+    "timeWeek": 87,
     "timeMonth": 91,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -101,9 +99,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.92%",
     "time": 137,
-    "timeDay": 186,
+    "timeDay": 193,
     "timeWeek": 155,
     "timeMonth": 153,
     "timeYear": 138,
@@ -124,8 +122,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -138,10 +135,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.92%",
     "time": 125,
-    "timeDay": 149,
-    "timeWeek": 117,
+    "timeDay": 121,
+    "timeWeek": 114,
     "timeMonth": 143,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -161,8 +158,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -171,14 +167,14 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "down",
-    "uptime": "91.06%",
+    "uptime": "91.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.92%",
     "time": 121,
-    "timeDay": 37,
-    "timeWeek": 264,
+    "timeDay": 45,
+    "timeWeek": 258,
     "timeMonth": 161,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -198,8 +194,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -214,9 +209,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 77,
+    "timeDay": 110,
     "timeWeek": 92,
-    "timeMonth": 107,
+    "timeMonth": 108,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -226,13 +221,13 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "90.91%",
+    "uptime": "90.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.92%",
     "time": 104,
-    "timeDay": 74,
+    "timeDay": 43,
     "timeWeek": 81,
     "timeMonth": 102,
     "timeYear": 104,
@@ -253,8 +248,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
-      "2023-05-28": 1440,
-      "2023-05-27": 1440
+      "2023-05-28": 1440
     }
   },
   {
@@ -269,8 +263,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 242,
-    "timeWeek": 265,
+    "timeDay": 269,
+    "timeWeek": 266,
     "timeMonth": 265,
     "timeYear": 275,
     "dailyMinutesDown": {}
@@ -287,7 +281,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 5,
-    "timeDay": 2,
+    "timeDay": 3,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 5,
