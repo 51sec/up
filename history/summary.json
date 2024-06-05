@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.66%",
     "time": 164,
-    "timeDay": 166,
-    "timeWeek": 176,
-    "timeMonth": 170,
+    "timeDay": 132,
+    "timeWeek": 171,
+    "timeMonth": 169,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2023-06-13": 860,
@@ -22,8 +22,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -36,11 +35,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
-    "time": 149,
-    "timeDay": 136,
+    "uptimeYear": "97.66%",
+    "time": 150,
+    "timeDay": 142,
     "timeWeek": 166,
-    "timeMonth": 164,
+    "timeMonth": 165,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2023-06-13": 861,
@@ -49,8 +48,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -65,8 +63,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 100,
-    "timeWeek": 87,
+    "timeDay": 96,
+    "timeWeek": 85,
     "timeMonth": 89,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -77,15 +75,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png",
     "slug": "sites",
     "status": "down",
-    "uptime": "91.19%",
+    "uptime": "91.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.66%",
     "time": 138,
-    "timeDay": 173,
-    "timeWeek": 134,
-    "timeMonth": 153,
+    "timeDay": 200,
+    "timeWeek": 133,
+    "timeMonth": 154,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2023-06-13": 860,
@@ -94,8 +92,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -108,9 +105,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.66%",
     "time": 125,
-    "timeDay": 97,
+    "timeDay": 141,
     "timeWeek": 138,
     "timeMonth": 140,
     "timeYear": 125,
@@ -121,8 +118,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -131,15 +127,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "down",
-    "uptime": "91.19%",
+    "uptime": "91.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.66%",
     "time": 121,
     "timeDay": 85,
-    "timeWeek": 127,
-    "timeMonth": 157,
+    "timeWeek": 121,
+    "timeMonth": 156,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2023-06-13": 861,
@@ -148,8 +144,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -158,14 +153,14 @@
     "icon": "https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png",
     "slug": "gd-drive",
     "status": "down",
-    "uptime": "93.94%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 155,
-    "timeWeek": 95,
+    "timeDay": 197,
+    "timeWeek": 97,
     "timeMonth": 106,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -176,14 +171,14 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "91.04%",
+    "uptime": "91.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.66%",
     "time": 106,
-    "timeDay": 135,
-    "timeWeek": 127,
+    "timeDay": 161,
+    "timeWeek": 132,
     "timeMonth": 107,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -193,8 +188,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
-      "2023-06-07": 1440,
-      "2023-06-06": 1440
+      "2023-06-07": 1440
     }
   },
   {
@@ -209,9 +203,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 253,
-    "timeWeek": 268,
-    "timeMonth": 267,
+    "timeDay": 295,
+    "timeWeek": 272,
+    "timeMonth": 268,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -221,7 +215,7 @@
     "icon": "https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png",
     "slug": "google-dns-8-8-8-8",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
