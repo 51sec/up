@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.31%",
     "time": 164,
-    "timeDay": 174,
-    "timeWeek": 182,
+    "timeDay": 214,
+    "timeWeek": 183,
     "timeMonth": 177,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2023-06-13": 860,
-      "2023-06-12": 1440
+      "2023-06-13": 860
     }
   },
   {
@@ -30,15 +29,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.31%",
     "time": 150,
-    "timeDay": 179,
-    "timeWeek": 158,
+    "timeDay": 180,
+    "timeWeek": 160,
     "timeMonth": 163,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2023-06-13": 861,
-      "2023-06-12": 1440
+      "2023-06-13": 861
     }
   },
   {
@@ -53,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 78,
-    "timeWeek": 94,
-    "timeMonth": 89,
+    "timeDay": 90,
+    "timeWeek": 96,
+    "timeMonth": 90,
     "timeYear": 93,
     "dailyMinutesDown": {}
   },
@@ -69,15 +67,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.31%",
     "time": 138,
-    "timeDay": 126,
-    "timeWeek": 157,
+    "timeDay": 173,
+    "timeWeek": 163,
     "timeMonth": 158,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2023-06-13": 860,
-      "2023-06-12": 1440
+      "2023-06-13": 860
     }
   },
   {
@@ -86,19 +83,18 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "down",
-    "uptime": "91.26%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.31%",
     "time": 126,
-    "timeDay": 113,
-    "timeWeek": 142,
+    "timeDay": 160,
+    "timeWeek": 149,
     "timeMonth": 142,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-06-13": 860,
-      "2023-06-12": 1440
+      "2023-06-13": 860
     }
   },
   {
@@ -111,15 +107,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.31%",
     "time": 121,
-    "timeDay": 72,
-    "timeWeek": 124,
-    "timeMonth": 160,
+    "timeDay": 117,
+    "timeWeek": 131,
+    "timeMonth": 161,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-06-13": 861,
-      "2023-06-12": 1440
+      "2023-06-13": 861
     }
   },
   {
@@ -134,8 +129,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 119,
-    "timeWeek": 129,
+    "timeDay": 156,
+    "timeWeek": 134,
     "timeMonth": 109,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -146,19 +141,18 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "91.12%",
+    "uptime": "91.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.31%",
     "time": 106,
-    "timeDay": 43,
-    "timeWeek": 111,
-    "timeMonth": 106,
+    "timeDay": 94,
+    "timeWeek": 118,
+    "timeMonth": 107,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-06-13": 860,
-      "2023-06-12": 1440
+      "2023-06-13": 860
     }
   },
   {
@@ -173,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 246,
-    "timeWeek": 277,
-    "timeMonth": 269,
+    "timeDay": 259,
+    "timeWeek": 280,
+    "timeMonth": 270,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -191,7 +185,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 5,
-    "timeDay": 3,
+    "timeDay": 4,
     "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 5,
