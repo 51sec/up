@@ -5,21 +5,17 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "34.78%",
+    "uptime": "85.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 247,
-    "timeWeek": 191,
+    "timeDay": 223,
+    "timeWeek": 188,
     "timeMonth": 187,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WWW",
@@ -27,21 +23,17 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "down",
-    "uptime": "34.78%",
+    "uptime": "91.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 225,
-    "timeWeek": 194,
-    "timeMonth": 188,
+    "timeDay": 184,
+    "timeWeek": 188,
+    "timeMonth": 186,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ITPROSEC",
@@ -49,21 +41,17 @@
     "icon": "https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg",
     "slug": "itprosec",
     "status": "down",
-    "uptime": "34.80%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 116,
+    "timeDay": 109,
     "timeWeek": 109,
     "timeMonth": 102,
     "timeYear": 96,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sites",
@@ -71,21 +59,17 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png",
     "slug": "sites",
     "status": "down",
-    "uptime": "34.78%",
+    "uptime": "91.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 221,
-    "timeWeek": 182,
+    "timeDay": 206,
+    "timeWeek": 179,
     "timeMonth": 164,
     "timeYear": 144,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Navigation",
@@ -93,21 +77,17 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "down",
-    "uptime": "34.78%",
+    "uptime": "91.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 195,
-    "timeWeek": 159,
+    "timeDay": 184,
+    "timeWeek": 157,
     "timeMonth": 164,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OneDrive",
@@ -115,21 +95,17 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "down",
-    "uptime": "34.78%",
+    "uptime": "91.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 200,
-    "timeWeek": 153,
-    "timeMonth": 151,
+    "timeDay": 153,
+    "timeWeek": 145,
+    "timeMonth": 150,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GDDrive",
@@ -137,21 +113,17 @@
     "icon": "https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png",
     "slug": "gd-drive",
     "status": "down",
-    "uptime": "33.91%",
+    "uptime": "94.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
-    "time": 117,
-    "timeDay": 137,
-    "timeWeek": 143,
+    "uptimeYear": "100.00%",
+    "time": 118,
+    "timeDay": 135,
+    "timeWeek": 142,
     "timeMonth": 145,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ARMWP",
@@ -159,21 +131,17 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "33.91%",
+    "uptime": "91.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 98,
-    "timeWeek": 136,
-    "timeMonth": 168,
+    "timeDay": 119,
+    "timeWeek": 134,
+    "timeMonth": 169,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NetSec YouTube Channel",
@@ -181,21 +149,17 @@
     "icon": "https://image.similarpng.com/very-thumbnail/2020/05/Logo-YouTube-realistic-icon-transparent-PNG.png",
     "slug": "net-sec-you-tube-channel",
     "status": "up",
-    "uptime": "34.77%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 295,
-    "timeWeek": 275,
+    "timeDay": 307,
+    "timeWeek": 277,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2023-12-16": 90,
-      "2023-12-15": 1440,
-      "2023-12-14": 1357
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 8.8.8.8",
@@ -203,7 +167,7 @@
     "icon": "https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png",
     "slug": "google-dns-8-8-8-8",
     "status": "up",
-    "uptime": "34.78%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
