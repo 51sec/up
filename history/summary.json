@@ -22,9 +22,9 @@
     "url": "https://www.51sec.org",
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "93.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 840,
     "timeMonth": 420,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "ITPROSEC",
