@@ -22,19 +22,19 @@
     "url": "https://www.51sec.org",
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
-    "status": "down",
+    "status": "up",
     "uptime": "93.05%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 1036,
-    "timeWeek": 840,
-    "timeMonth": 420,
-    "timeYear": 191,
+    "time": 188,
+    "timeDay": 1026,
+    "timeWeek": 845,
+    "timeMonth": 424,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-12-12": 0
+      "2024-12-12": 16
     }
   },
   {
