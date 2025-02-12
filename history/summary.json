@@ -78,19 +78,19 @@
     "url": "https://nav.51sec.org",
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
-    "status": "down",
+    "status": "up",
     "uptime": "93.52%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 243,
-    "timeWeek": 255,
+    "timeDay": 255,
+    "timeWeek": 256,
     "timeMonth": 397,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-02-12": 1
+      "2025-02-12": 7
     }
   },
   {
