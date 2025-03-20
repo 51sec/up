@@ -80,7 +80,7 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "up",
-    "uptime": "93.75%",
+    "uptime": "93.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -133,18 +133,20 @@
     "url": "https://armwp.51sec.org",
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
-    "status": "up",
+    "status": "down",
     "uptime": "93.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
-    "timeDay": 1020,
-    "timeWeek": 1065,
-    "timeMonth": 1027,
+    "timeDay": 925,
+    "timeWeek": 1047,
+    "timeMonth": 1023,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-20": 1
+    }
   },
   {
     "name": "NetSec YouTube Channel",
