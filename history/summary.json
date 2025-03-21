@@ -135,9 +135,9 @@
     "slug": "armwp",
     "status": "down",
     "uptime": "93.68%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 811,
@@ -145,7 +145,7 @@
     "timeMonth": 1017,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-03-21": 1
+      "2025-03-21": 10
     }
   },
   {
