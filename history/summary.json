@@ -133,19 +133,19 @@
     "url": "https://armwp.51sec.org",
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
-    "status": "up",
-    "uptime": "93.68%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "status": "down",
+    "uptime": "93.69%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 804,
-    "timeWeek": 980,
-    "timeMonth": 1014,
+    "timeDay": 775,
+    "timeWeek": 966,
+    "timeMonth": 1010,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-03-21": 11
+      "2025-03-21": 1
     }
   },
   {
