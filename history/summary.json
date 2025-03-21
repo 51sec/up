@@ -133,18 +133,20 @@
     "url": "https://armwp.51sec.org",
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
-    "status": "up",
+    "status": "down",
     "uptime": "93.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 924,
-    "timeWeek": 1030,
-    "timeMonth": 1024,
+    "timeDay": 861,
+    "timeWeek": 1012,
+    "timeMonth": 1020,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-21": 1
+    }
   },
   {
     "name": "NetSec YouTube Channel",
