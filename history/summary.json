@@ -45,9 +45,9 @@
     "slug": "itprosec",
     "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 266,
@@ -55,7 +55,7 @@
     "timeMonth": 145,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-05-01": 0
+      "2025-05-01": 12
     }
   },
   {
