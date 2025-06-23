@@ -1,7 +1,7 @@
 url: https://www.youtube.com/c/NetSec
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2025-06-23T13:00:17.951Z
+status: down
+code: 429
+responseTime: 299
+lastUpdated: 2025-06-23T16:19:45.611Z
 startTime: 2022-07-02T10:34:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
