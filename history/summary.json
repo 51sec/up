@@ -5,15 +5,15 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "70.14%",
+    "uptime": "70.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.70%",
+    "uptimeYear": "11.80%",
     "time": 269,
-    "timeDay": 397,
-    "timeWeek": 1249,
-    "timeMonth": 486,
+    "timeDay": 419,
+    "timeWeek": 1280,
+    "timeMonth": 487,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2026-05-06": 240,
@@ -337,8 +337,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -347,15 +346,15 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "73.34%",
+    "uptime": "73.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.70%",
+    "uptimeYear": "11.80%",
     "time": 389,
-    "timeDay": 1510,
-    "timeWeek": 1281,
-    "timeMonth": 1264,
+    "timeDay": 1540,
+    "timeWeek": 1258,
+    "timeMonth": 1266,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -679,8 +678,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -695,9 +693,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "18.25%",
     "time": 374,
-    "timeDay": 1123,
-    "timeWeek": 877,
-    "timeMonth": 1229,
+    "timeDay": 1386,
+    "timeWeek": 885,
+    "timeMonth": 1233,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-07-11": 326,
@@ -1008,15 +1006,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png",
     "slug": "sites",
     "status": "up",
-    "uptime": "73.36%",
+    "uptime": "73.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.70%",
+    "uptimeYear": "11.80%",
     "time": 211,
-    "timeDay": 504,
+    "timeDay": 588,
     "timeWeek": 217,
-    "timeMonth": 189,
+    "timeMonth": 190,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1340,8 +1338,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -1354,11 +1351,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.70%",
+    "uptimeYear": "11.80%",
     "time": 205,
-    "timeDay": 336,
-    "timeWeek": 280,
-    "timeMonth": 236,
+    "timeDay": 406,
+    "timeWeek": 281,
+    "timeMonth": 237,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1682,8 +1679,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -1692,15 +1688,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "up",
-    "uptime": "73.36%",
+    "uptime": "73.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.70%",
+    "uptimeYear": "11.80%",
     "time": 212,
-    "timeDay": 304,
-    "timeWeek": 228,
-    "timeMonth": 183,
+    "timeDay": 343,
+    "timeWeek": 227,
+    "timeMonth": 185,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -2024,8 +2020,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -2034,15 +2029,15 @@
     "icon": "https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png",
     "slug": "gd-drive",
     "status": "up",
-    "uptime": "74.56%",
+    "uptime": "74.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.70%",
+    "uptimeYear": "11.80%",
     "time": 287,
-    "timeDay": 1530,
-    "timeWeek": 918,
-    "timeMonth": 816,
+    "timeDay": 1705,
+    "timeWeek": 933,
+    "timeMonth": 817,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -2366,8 +2361,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -2376,18 +2370,19 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "70.19%",
+    "uptime": "70.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 122,
-    "timeMonth": 88,
+    "time": 257,
+    "timeDay": 334,
+    "timeWeek": 124,
+    "timeMonth": 89,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-06-17": 1235,
+      "2026-06-18": 320,
+      "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
@@ -2750,8 +2745,7 @@
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
-      "2025-06-19": 1440,
-      "2025-06-18": 1440
+      "2025-06-19": 1440
     }
   },
   {
@@ -2766,9 +2760,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 378,
-    "timeDay": 434,
-    "timeWeek": 415,
-    "timeMonth": 421,
+    "timeDay": 500,
+    "timeWeek": 417,
+    "timeMonth": 423,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2025-06-23": 27
@@ -2786,7 +2780,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 4,
+    "timeDay": 7,
     "timeWeek": 6,
     "timeMonth": 5,
     "timeYear": 5,
