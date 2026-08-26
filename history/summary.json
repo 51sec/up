@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.58%",
+    "uptimeYear": "30.66%",
     "time": 269,
-    "timeDay": 305,
-    "timeWeek": 324,
+    "timeDay": 257,
+    "timeWeek": 320,
     "timeMonth": 356,
     "timeYear": 270,
     "dailyMinutesDown": {
@@ -268,8 +268,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -278,16 +277,16 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "74.30%",
+    "uptime": "74.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "45.59%",
+    "uptimeWeek": "45.62%",
     "uptimeMonth": "87.48%",
-    "uptimeYear": "29.54%",
+    "uptimeYear": "29.62%",
     "time": 729,
-    "timeDay": 1394,
-    "timeWeek": 12388,
-    "timeMonth": 4098,
-    "timeYear": 776,
+    "timeDay": 1327,
+    "timeWeek": 12140,
+    "timeMonth": 4099,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -542,7 +541,6 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
       "2026-08-22": 1291,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -555,15 +553,15 @@
     "icon": "https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg",
     "slug": "itprosec",
     "status": "down",
-    "uptime": "76.93%",
+    "uptime": "76.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.15%",
-    "uptimeMonth": "77.94%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.98%",
     "uptimeYear": "28.75%",
     "time": 672,
-    "timeDay": 122,
-    "timeWeek": 17564,
-    "timeMonth": 4753,
+    "timeDay": 104,
+    "timeWeek": 17463,
+    "timeMonth": 4749,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -819,8 +817,8 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
-      "2026-08-25": 1149,
+      "2026-08-26": 130,
+      "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -835,14 +833,14 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/sites%20-%20round%20-500.png",
     "slug": "sites",
     "status": "up",
-    "uptime": "74.57%",
+    "uptime": "74.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.58%",
+    "uptimeYear": "30.66%",
     "time": 201,
-    "timeDay": 138,
-    "timeWeek": 221,
+    "timeDay": 155,
+    "timeWeek": 223,
     "timeMonth": 173,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -1098,8 +1096,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -1112,10 +1109,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.58%",
+    "uptimeYear": "30.66%",
     "time": 211,
-    "timeDay": 267,
-    "timeWeek": 250,
+    "timeDay": 241,
+    "timeWeek": 244,
     "timeMonth": 332,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -1371,8 +1368,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -1381,13 +1377,13 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "up",
-    "uptime": "74.57%",
+    "uptime": "74.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.58%",
+    "uptimeYear": "30.66%",
     "time": 214,
-    "timeDay": 274,
+    "timeDay": 283,
     "timeWeek": 220,
     "timeMonth": 222,
     "timeYear": 212,
@@ -1644,8 +1640,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -1658,11 +1653,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.58%",
+    "uptimeYear": "30.66%",
     "time": 369,
-    "timeDay": 856,
-    "timeWeek": 874,
-    "timeMonth": 856,
+    "timeDay": 873,
+    "timeWeek": 871,
+    "timeMonth": 857,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1917,8 +1912,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -1927,18 +1921,19 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "66.98%",
+    "uptime": "66.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 160,
     "timeDay": 0,
-    "timeWeek": 118,
+    "timeWeek": 116,
     "timeMonth": 86,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-08-25": 1150,
+      "2026-08-26": 130,
+      "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -2301,8 +2296,7 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440,
-      "2025-08-26": 1440
+      "2025-08-27": 1440
     }
   },
   {
@@ -2317,9 +2311,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 432,
-    "timeWeek": 433,
-    "timeMonth": 404,
+    "timeDay": 459,
+    "timeWeek": 435,
+    "timeMonth": 406,
     "timeYear": 396,
     "dailyMinutesDown": {}
   },
@@ -2335,7 +2329,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 9,
+    "timeDay": 7,
     "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 5,
