@@ -5,14 +5,14 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "71.59%",
+    "uptime": "71.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.98%",
+    "uptimeYear": "32.08%",
     "time": 268,
-    "timeDay": 341,
-    "timeWeek": 336,
+    "timeDay": 398,
+    "timeWeek": 348,
     "timeMonth": 359,
     "timeYear": 270,
     "dailyMinutesDown": {
@@ -263,8 +263,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -273,16 +272,16 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "74.39%",
+    "uptime": "74.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.48%",
-    "uptimeYear": "30.94%",
+    "uptimeYear": "31.03%",
     "time": 741,
-    "timeDay": 1282,
-    "timeWeek": 1457,
-    "timeMonth": 4224,
-    "timeYear": 791,
+    "timeDay": 1175,
+    "timeWeek": 1433,
+    "timeMonth": 4219,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -532,7 +531,6 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2025-08-31": 1440,
       "2026-08-22": 1291,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -547,14 +545,14 @@
     "status": "up",
     "uptime": "76.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "24.73%",
+    "uptimeWeek": "29.81%",
     "uptimeMonth": "66.88%",
-    "uptimeYear": "29.22%",
-    "time": 678,
-    "timeDay": 1284,
-    "timeWeek": 2933,
-    "timeMonth": 4886,
-    "timeYear": 733,
+    "uptimeYear": "29.32%",
+    "time": 679,
+    "timeDay": 1442,
+    "timeWeek": 2205,
+    "timeMonth": 4892,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -804,7 +802,6 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2025-08-31": 1440,
       "2026-08-29": 234,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -828,10 +825,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.98%",
+    "uptimeYear": "32.08%",
     "time": 201,
-    "timeDay": 173,
-    "timeWeek": 182,
+    "timeDay": 211,
+    "timeWeek": 184,
     "timeMonth": 171,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -1082,8 +1079,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -1096,11 +1092,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.98%",
+    "uptimeYear": "32.08%",
     "time": 211,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 296,
+    "timeDay": 304,
+    "timeWeek": 242,
+    "timeMonth": 294,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1350,8 +1346,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -1364,12 +1359,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.98%",
+    "uptimeYear": "32.08%",
     "time": 214,
-    "timeDay": 222,
-    "timeWeek": 219,
-    "timeMonth": 220,
-    "timeYear": 211,
+    "timeDay": 283,
+    "timeWeek": 228,
+    "timeMonth": 221,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -1618,8 +1613,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -1628,16 +1622,16 @@
     "icon": "https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png",
     "slug": "gd-drive",
     "status": "up",
-    "uptime": "75.81%",
+    "uptime": "75.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.98%",
-    "time": 376,
-    "timeDay": 968,
-    "timeWeek": 958,
-    "timeMonth": 850,
-    "timeYear": 395,
+    "uptimeYear": "32.08%",
+    "time": 377,
+    "timeDay": 1028,
+    "timeWeek": 973,
+    "timeMonth": 849,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -1886,8 +1880,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -1896,7 +1889,7 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "66.75%",
+    "uptime": "66.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1904,10 +1897,11 @@
     "time": 160,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 88,
+    "timeMonth": 87,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-08-30": 1288,
+      "2026-08-31": 360,
+      "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -2270,8 +2264,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
-      "2025-09-01": 1440,
-      "2025-08-31": 1440
+      "2025-09-01": 1440
     }
   },
   {
@@ -2286,8 +2279,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 393,
-    "timeWeek": 398,
+    "timeDay": 430,
+    "timeWeek": 405,
     "timeMonth": 403,
     "timeYear": 397,
     "dailyMinutesDown": {}
@@ -2304,9 +2297,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 3,
+    "timeDay": 4,
     "timeWeek": 4,
-    "timeMonth": 5,
+    "timeMonth": 6,
     "timeYear": 5,
     "dailyMinutesDown": {}
   }
