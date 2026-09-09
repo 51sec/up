@@ -5,14 +5,14 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "71.76%",
+    "uptime": "71.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.44%",
+    "uptimeYear": "34.53%",
     "time": 273,
-    "timeDay": 741,
-    "timeWeek": 505,
+    "timeDay": 807,
+    "timeWeek": 495,
     "timeMonth": 408,
     "timeYear": 274,
     "dailyMinutesDown": {
@@ -254,8 +254,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -264,16 +263,16 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "74.54%",
+    "uptime": "74.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.48%",
-    "uptimeYear": "33.40%",
-    "time": 768,
-    "timeDay": 1425,
-    "timeWeek": 1656,
-    "timeMonth": 4299,
-    "timeYear": 824,
+    "uptimeYear": "33.49%",
+    "time": 769,
+    "timeDay": 1367,
+    "timeWeek": 1650,
+    "timeMonth": 4296,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -514,7 +513,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-08-22": 1291,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -527,16 +525,16 @@
     "icon": "https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg",
     "slug": "itprosec",
     "status": "up",
-    "uptime": "76.92%",
+    "uptime": "76.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "66.88%",
-    "uptimeYear": "31.68%",
-    "time": 739,
-    "timeDay": 1367,
-    "timeWeek": 1514,
-    "timeMonth": 5539,
-    "timeYear": 800,
+    "uptimeYear": "31.77%",
+    "time": 740,
+    "timeDay": 1388,
+    "timeWeek": 1488,
+    "timeMonth": 5542,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -777,7 +775,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-08-29": 234,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -801,11 +798,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.44%",
+    "uptimeYear": "34.53%",
     "time": 201,
-    "timeDay": 205,
-    "timeWeek": 211,
-    "timeMonth": 188,
+    "timeDay": 237,
+    "timeWeek": 214,
+    "timeMonth": 189,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1046,8 +1043,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1056,14 +1052,14 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "up",
-    "uptime": "74.80%",
+    "uptime": "74.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.44%",
+    "uptimeYear": "34.53%",
     "time": 214,
-    "timeDay": 344,
-    "timeWeek": 342,
+    "timeDay": 389,
+    "timeWeek": 337,
     "timeMonth": 315,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -1305,8 +1301,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1319,10 +1314,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.44%",
+    "uptimeYear": "34.53%",
     "time": 216,
-    "timeDay": 207,
-    "timeWeek": 242,
+    "timeDay": 287,
+    "timeWeek": 239,
     "timeMonth": 230,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -1564,8 +1559,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1574,15 +1568,15 @@
     "icon": "https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png",
     "slug": "gd-drive",
     "status": "up",
-    "uptime": "75.95%",
+    "uptime": "75.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.44%",
-    "time": 392,
-    "timeDay": 703,
-    "timeWeek": 940,
-    "timeMonth": 887,
+    "uptimeYear": "34.53%",
+    "time": 393,
+    "timeDay": 755,
+    "timeWeek": 935,
+    "timeMonth": 890,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1823,8 +1817,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1833,7 +1826,7 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "66.36%",
+    "uptime": "66.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1841,10 +1834,11 @@
     "time": 160,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 94,
+    "timeMonth": 95,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-09-08": 1281,
+      "2026-09-09": 305,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -2207,8 +2201,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -2223,8 +2216,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 375,
-    "timeWeek": 446,
+    "timeDay": 389,
+    "timeWeek": 439,
     "timeMonth": 411,
     "timeYear": 399,
     "dailyMinutesDown": {}
