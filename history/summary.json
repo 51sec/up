@@ -5,15 +5,15 @@
     "icon": "https://blog.51sec.org/favicon.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "71.87%",
+    "uptime": "71.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.10%",
+    "uptimeYear": "36.18%",
     "time": 276,
-    "timeDay": 401,
-    "timeWeek": 489,
-    "timeMonth": 436,
+    "timeDay": 428,
+    "timeWeek": 488,
+    "timeMonth": 437,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2026-05-06": 240,
@@ -248,8 +248,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -258,16 +257,16 @@
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "74.64%",
+    "uptime": "74.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.48%",
-    "uptimeYear": "35.05%",
-    "time": 789,
-    "timeDay": 1527,
-    "timeWeek": 1579,
+    "uptimeYear": "35.13%",
+    "time": 790,
+    "timeDay": 1795,
+    "timeWeek": 1615,
     "timeMonth": 4342,
-    "timeYear": 847,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -502,7 +501,6 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
-      "2025-09-15": 1440,
       "2026-08-22": 1291,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -515,16 +513,16 @@
     "icon": "https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg",
     "slug": "itprosec",
     "status": "up",
-    "uptime": "77.01%",
+    "uptime": "77.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "66.88%",
-    "uptimeYear": "33.34%",
+    "uptimeYear": "33.42%",
     "time": 763,
-    "timeDay": 1987,
+    "timeDay": 1997,
     "timeWeek": 1706,
-    "timeMonth": 5738,
-    "timeYear": 826,
+    "timeMonth": 5741,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -759,7 +757,6 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
-      "2025-09-15": 1440,
       "2026-08-29": 234,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -783,10 +780,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.10%",
+    "uptimeYear": "36.18%",
     "time": 202,
-    "timeDay": 209,
-    "timeWeek": 222,
+    "timeDay": 186,
+    "timeWeek": 223,
     "timeMonth": 208,
     "timeYear": 197,
     "dailyMinutesDown": {
@@ -1022,8 +1019,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -1032,15 +1028,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "up",
-    "uptime": "74.90%",
+    "uptime": "74.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.10%",
+    "uptimeYear": "36.18%",
     "time": 216,
-    "timeDay": 274,
-    "timeWeek": 346,
-    "timeMonth": 328,
+    "timeDay": 249,
+    "timeWeek": 344,
+    "timeMonth": 329,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1275,8 +1271,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -1285,15 +1280,15 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/OneDrive%20OD%2051sec-roundcorner%20-%20Copy.png",
     "slug": "one-drive",
     "status": "up",
-    "uptime": "74.90%",
+    "uptime": "74.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.10%",
+    "uptimeYear": "36.18%",
     "time": 214,
-    "timeDay": 222,
-    "timeWeek": 236,
-    "timeMonth": 234,
+    "timeDay": 195,
+    "timeWeek": 237,
+    "timeMonth": 235,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1528,8 +1523,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -1542,12 +1536,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.10%",
-    "time": 406,
-    "timeDay": 1242,
-    "timeWeek": 1076,
-    "timeMonth": 948,
-    "timeYear": 425,
+    "uptimeYear": "36.18%",
+    "time": 407,
+    "timeDay": 1276,
+    "timeWeek": 1090,
+    "timeMonth": 952,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -1781,8 +1775,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -1791,7 +1784,7 @@
     "icon": "https://cdn-icons-png.flaticon.com/512/174/174881.png",
     "slug": "armwp",
     "status": "down",
-    "uptime": "66.09%",
+    "uptime": "66.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1799,10 +1792,11 @@
     "time": 160,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 105,
+    "timeMonth": 107,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-09-14": 1321,
+      "2026-09-15": 313,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -2165,8 +2159,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -2181,8 +2174,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 352,
-    "timeWeek": 403,
+    "timeDay": 322,
+    "timeWeek": 402,
     "timeMonth": 414,
     "timeYear": 401,
     "dailyMinutesDown": {}
