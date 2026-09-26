@@ -24,9 +24,6 @@ sites:
   - name: GDDrive
     url: https://gd.51sec.org
     icon: https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png
-  - name: ARMWP
-    url: https://armwp.51sec.org
-    icon: https://cdn-icons-png.flaticon.com/512/174/174881.png
   - name: NetSec YouTube Channel
     url: https://www.youtube.com/c/NetSec
     icon: https://image.similarpng.com/very-thumbnail/2020/05/Logo-YouTube-realistic-icon-transparent-PNG.png
