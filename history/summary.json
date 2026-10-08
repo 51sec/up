@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.41%",
+    "uptimeYear": "42.49%",
     "time": 285,
-    "timeDay": 1798,
-    "timeWeek": 534,
+    "timeDay": 1640,
+    "timeWeek": 545,
     "timeMonth": 441,
     "timeYear": 287,
     "dailyMinutesDown": {
@@ -225,8 +225,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -239,11 +238,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.37%",
+    "uptimeYear": "41.45%",
     "time": 840,
-    "timeDay": 2397,
-    "timeWeek": 1134,
-    "timeMonth": 1333,
+    "timeDay": 2109,
+    "timeWeek": 1144,
+    "timeMonth": 1335,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -456,7 +455,6 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
       "2026-08-22": 1291,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -469,16 +467,16 @@
     "icon": "https://itprosec.com/wp-content/uploads/2020/03/ITPROSEC-No-Transparent-Icon-Only-small.jpg",
     "slug": "itprosec",
     "status": "up",
-    "uptime": "77.35%",
+    "uptime": "77.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.65%",
-    "time": 872,
-    "timeDay": 3827,
-    "timeWeek": 3612,
-    "timeMonth": 2171,
-    "timeYear": 954,
+    "uptimeYear": "39.73%",
+    "time": 873,
+    "timeDay": 3205,
+    "timeWeek": 3603,
+    "timeMonth": 2188,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2026-05-06": 241,
       "2026-05-05": 1440,
@@ -690,7 +688,6 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
       "2026-08-29": 234,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -714,11 +711,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.41%",
+    "uptimeYear": "42.49%",
     "time": 202,
-    "timeDay": 1496,
-    "timeWeek": 399,
-    "timeMonth": 246,
+    "timeDay": 1314,
+    "timeWeek": 395,
+    "timeMonth": 245,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -930,8 +927,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -940,14 +936,14 @@
     "icon": "https://photos.51sec.org/file/test1-51sec/2021/10/Black%2C%20White%20and%20Yellow%20Lightning%20-%20Round%20corner-350.png",
     "slug": "navigation",
     "status": "up",
-    "uptime": "75.27%",
+    "uptime": "75.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.41%",
+    "uptimeYear": "42.49%",
     "time": 220,
-    "timeDay": 498,
-    "timeWeek": 316,
+    "timeDay": 287,
+    "timeWeek": 314,
     "timeMonth": 327,
     "timeYear": 220,
     "dailyMinutesDown": {
@@ -1160,8 +1156,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -1174,11 +1169,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.41%",
+    "uptimeYear": "42.49%",
     "time": 217,
-    "timeDay": 1079,
-    "timeWeek": 360,
-    "timeMonth": 275,
+    "timeDay": 971,
+    "timeWeek": 358,
+    "timeMonth": 276,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1390,8 +1385,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -1404,11 +1398,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "42.39%",
+    "uptimeYear": "42.47%",
     "time": 444,
-    "timeDay": 1286,
-    "timeWeek": 924,
-    "timeMonth": 974,
+    "timeDay": 1115,
+    "timeWeek": 938,
+    "timeMonth": 978,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -1621,7 +1615,6 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
       "2026-09-16": 133
     }
   },
@@ -1637,9 +1630,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
-    "timeDay": 406,
-    "timeWeek": 428,
-    "timeMonth": 412,
+    "timeDay": 429,
+    "timeWeek": 433,
+    "timeMonth": 413,
     "timeYear": 404,
     "dailyMinutesDown": {}
   },
