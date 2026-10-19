@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.40%",
+    "uptimeYear": "45.46%",
     "time": 288,
     "timeDay": 253,
-    "timeWeek": 464,
+    "timeWeek": 463,
     "timeMonth": 435,
     "timeYear": 293,
     "dailyMinutesDown": {
@@ -214,8 +214,7 @@
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
-      "2025-10-20": 1440,
-      "2025-10-19": 1440
+      "2025-10-20": 1440
     }
   },
   {
@@ -223,16 +222,16 @@
     "url": "https://www.51sec.org",
     "icon": "https://www.51sec.org/favicon.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "75.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.36%",
+    "uptimeYear": "44.41%",
     "time": 857,
-    "timeDay": 838,
-    "timeWeek": 1032,
-    "timeMonth": 1089,
+    "timeDay": 722,
+    "timeWeek": 1007,
+    "timeMonth": 1081,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2026-05-06": 241,
@@ -434,11 +433,11 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
       "2026-08-22": 1291,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
-      "2026-08-19": 1313
+      "2026-08-19": 1313,
+      "2026-10-19": 1
     }
   },
   {
@@ -451,10 +450,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.64%",
+    "uptimeYear": "42.70%",
     "time": 969,
     "timeDay": 3968,
-    "timeWeek": 4778,
+    "timeWeek": 4837,
     "timeMonth": 3210,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -657,7 +656,6 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
       "2026-08-29": 234,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
@@ -681,10 +679,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.40%",
+    "uptimeYear": "45.46%",
     "time": 202,
     "timeDay": 240,
-    "timeWeek": 224,
+    "timeWeek": 225,
     "timeMonth": 237,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -886,8 +884,7 @@
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
-      "2025-10-20": 1440,
-      "2025-10-19": 1440
+      "2025-10-20": 1440
     }
   },
   {
@@ -900,10 +897,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.40%",
+    "uptimeYear": "45.46%",
     "time": 222,
     "timeDay": 244,
-    "timeWeek": 376,
+    "timeWeek": 374,
     "timeMonth": 335,
     "timeYear": 224,
     "dailyMinutesDown": {
@@ -1105,8 +1102,7 @@
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
-      "2025-10-20": 1440,
-      "2025-10-19": 1440
+      "2025-10-20": 1440
     }
   },
   {
@@ -1119,10 +1115,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.40%",
+    "uptimeYear": "45.46%",
     "time": 214,
     "timeDay": 253,
-    "timeWeek": 264,
+    "timeWeek": 261,
     "timeMonth": 274,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -1324,8 +1320,7 @@
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
-      "2025-10-20": 1440,
-      "2025-10-19": 1440
+      "2025-10-20": 1440
     }
   },
   {
@@ -1334,14 +1329,14 @@
     "icon": "https://static.cdnlogo.com/logos/g/24/google-drive-thumb.png",
     "slug": "gd-drive",
     "status": "up",
-    "uptime": "76.56%",
+    "uptime": "76.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.37%",
+    "uptimeYear": "45.43%",
     "time": 463,
     "timeDay": 848,
-    "timeWeek": 1242,
+    "timeWeek": 1253,
     "timeMonth": 1005,
     "timeYear": 493,
     "dailyMinutesDown": {
@@ -1544,7 +1539,6 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
       "2026-09-16": 133
     }
   },
@@ -1561,7 +1555,7 @@
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 409,
-    "timeWeek": 458,
+    "timeWeek": 459,
     "timeMonth": 433,
     "timeYear": 407,
     "dailyMinutesDown": {}
